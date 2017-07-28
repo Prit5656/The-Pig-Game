@@ -12,6 +12,6 @@ Easy-to-play game written in pure JS, but possibly this is not what you want to 
 
 ## How can I play?
 
-Oh it's simple, really, just follow this link, and you end up on a lovely piggy farm, where you can start the game. I enclosed a screenshot, so you don't get lost.
+Oh it's simple, really, just follow [this 🐷 link](https://javpet.github.io/The-Pig-Game/), and you end up on a lovely piggy farm, where you can start the game. I enclosed a screenshot, so you don't get lost.
 
 ![screen shot 2017-07-28 at 20 37 58](https://user-images.githubusercontent.com/9334646/28731546-a533f564-73d4-11e7-88b9-2f34766c2c7a.png)
